@@ -1,1 +1,3 @@
 Some important notes here about development environment
+
+Added some notes per Lab step 11
